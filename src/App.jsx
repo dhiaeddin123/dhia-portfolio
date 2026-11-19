@@ -32,7 +32,7 @@ function App() {
 
       {/* Hero */}
       <section className="relative mx-auto flex min-h-[75vh]
-        max-w-6xl flex-col justify-center px-6 py-20">
+        max-w-6xl flex-col justify-center px-6 py-20 pt-28 md:pt-36">
 
         <div className="absolute right-10 top-24 h-72 w-72
           rounded-full bg-emerald-500/10 blur-[120px]" />
